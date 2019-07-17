@@ -1,0 +1,12 @@
+Added Component: Designator=*(SIM7020E)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(VQFN20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(VQFN-16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(UFQFPN48)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=UBT Member=Component * SIM7020E
+Added Member To Class: ClassName=UBT Member=Component D? BQ51013B
+Added Member To Class: ClassName=UBT Member=Component D? BQ24232
+Added Member To Class: ClassName=UBT Member=Component D? 1

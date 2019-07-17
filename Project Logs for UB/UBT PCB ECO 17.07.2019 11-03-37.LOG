@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D7
+Added Component: Designator=D4(TSSOP14)
+Added Component: Designator=D8(LGA12)
+Change Net Name : Old Net Name=NetD6_9 New Net Name=NetD7_9
+Added Member To Class: ClassName=UBT Member=Component D4 NTS0304EPW
+Added Member To Class: ClassName=UBT Member=Component D7 SIM7020E
+Added Member To Class: ClassName=UBT Member=Component D8 IIS2DH

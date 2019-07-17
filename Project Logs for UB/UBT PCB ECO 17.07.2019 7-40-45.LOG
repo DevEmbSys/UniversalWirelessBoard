@@ -1,0 +1,33 @@
+Added Component: Designator=D1(VQFN20)
+Added Component: Designator=D2(VQFN-16)
+Added Component: Designator=D3(WSON8)
+Added Component: Designator=D5(VFQFPN68)
+Added Component: Designator=D6(SIM7020E)
+Added Component: Designator=T1(SO8)
+Added Pin To Net: NetName=3V3 Pin=T1-1
+Added Pin To Net: NetName=3V3 Pin=T1-1
+Added Pin To Net: NetName=3V3 Pin=T1-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=D6-8
+Added Pin To Net: NetName=GND Pin=D6-13
+Added Pin To Net: NetName=GND Pin=D6-19
+Added Pin To Net: NetName=GND Pin=D6-21
+Added Pin To Net: NetName=GND Pin=D6-27
+Added Pin To Net: NetName=GND Pin=D6-30
+Added Pin To Net: NetName=GND Pin=D6-31
+Added Pin To Net: NetName=GND Pin=D6-33
+Added Pin To Net: NetName=GND Pin=D6-36
+Added Pin To Net: NetName=GND Pin=D6-37
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD6_9 Pin=D6-9
+Added Pin To Net: NetName=NetD6_9 Pin=T1-5
+Added Pin To Net: NetName=NetD6_9 Pin=T1-5
+Added Pin To Net: NetName=NetD6_9 Pin=T1-5
+Added Pin To Net: NetName=NetD6_9 Pin=T1-5
+Added Net: Name=NetD6_9
+Added Member To Class: ClassName=UBT Member=Component D1 BQ51013B
+Added Member To Class: ClassName=UBT Member=Component D2 BQ24232
+Added Member To Class: ClassName=UBT Member=Component D3 TPS62081
+Added Member To Class: ClassName=UBT Member=Component D5 STM32WB55Rx
+Added Member To Class: ClassName=UBT Member=Component D6 SIM7020E
+Added Member To Class: ClassName=UBT Member=Component T1 IRF7410
