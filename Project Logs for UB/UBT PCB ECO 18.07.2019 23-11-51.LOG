@@ -1,0 +1,53 @@
+Added Component: Designator=C?(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(C_TYPE_D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(C_TYPE_D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(C_TYPE_D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=GSM_PWR_ON Pin=R?-1
+Added Net: Name=GSM_PWR_ON
+Added Pin To Net: NetName=GSM_RESET Pin=R?-2
+Added Net: Name=GSM_RESET
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=D8-34
+Added Pin To Net: NetName=NetC?_1 Pin=D8-35
+Added Pin To Net: NetName=NetC?_1 Pin=T1-5
+Added Pin To Net: NetName=NetC?_1 Pin=T1-5
+Added Pin To Net: NetName=NetC?_1 Pin=T1-5
+Added Pin To Net: NetName=NetC?_1 Pin=T1-5
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=D8-28
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Net: Name=NetC?_2
+Added Member To Class: ClassName=UBT Member=Component C? 100n
+Added Member To Class: ClassName=UBT Member=Component C? 100n
+Added Member To Class: ClassName=UBT Member=Component C? 330u
+Added Member To Class: ClassName=UBT Member=Component C? 330u
+Added Member To Class: ClassName=UBT Member=Component C? 330u
+Added Member To Class: ClassName=UBT Member=Component C? 100n
+Added Member To Class: ClassName=UBT Member=Component R? 1M
+Added Member To Class: ClassName=UBT Member=Component R? 200
+Added Member To Class: ClassName=UBT Member=Component R? 200

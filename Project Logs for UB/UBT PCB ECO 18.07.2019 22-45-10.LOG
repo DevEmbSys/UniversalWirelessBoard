@@ -1,0 +1,11 @@
+Added Component: Designator=C1(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(R0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Pin To Net: NetName=GSM_PWRKEY Pin=R1-2
+Added Net: Name=GSM_PWRKEY
+Added Member To Class: ClassName=UBT Member=Component C1 100n
+Added Member To Class: ClassName=UBT Member=Component R1 200

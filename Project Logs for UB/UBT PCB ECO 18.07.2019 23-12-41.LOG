@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=UBT Member=R?
+Change Component Designator: OldDesignator=C1 NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC7_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Pin To Net: NetName=NetC1_2 Pin=T1-4
+Added Net: Name=NetC1_2
+Added Member To Class: ClassName=UBT Member=Component C2 330u
+Added Member To Class: ClassName=UBT Member=Component C3 330u
+Added Member To Class: ClassName=UBT Member=Component C4 330u
+Added Member To Class: ClassName=UBT Member=Component C5 100n
+Added Member To Class: ClassName=UBT Member=Component C6 100n
+Added Member To Class: ClassName=UBT Member=Component R2 200
+Added Member To Class: ClassName=UBT Member=Component R3 200
+Added Member To Class: ClassName=UBT Member=Component R4 200
