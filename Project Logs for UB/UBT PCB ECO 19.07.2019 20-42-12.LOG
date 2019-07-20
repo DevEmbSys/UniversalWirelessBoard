@@ -1,0 +1,86 @@
+Change Component Comment : Designator=R1 Old Comment=1M New Comment=10M
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C7
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D4
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R7
+Change Component Designator: OldDesignator=R4 NewDesignator=R8
+Added Component: Designator=C1(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9(VQFN8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(R0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GSM_1v8 Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R6-1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC9_2
+Added Pin To Net: NetName=GSM_RTC_EINT Pin=D8-12
+Added Pin To Net: NetName=GSM_RTC_EINT Pin=R4-2
+Added Net: Name=GSM_RTC_EINT
+Added Pin To Net: NetName=GSM_RTS Pin=D4-4
+Added Pin To Net: NetName=GSM_RTS Pin=D8-3
+Added Net: Name=GSM_RTS
+Added Pin To Net: NetName=MCU_GSM_DTR Pin=D4-10
+Added Net: Name=MCU_GSM_DTR
+Added Pin To Net: NetName=MCU_GSM_RI Pin=D8-7
+Added Pin To Net: NetName=MCU_GSM_RI Pin=R5-2
+Added Net: Name=MCU_GSM_RI
+Added Pin To Net: NetName=MCU_GSM_RTS Pin=D4-11
+Added Net: Name=MCU_GSM_RTS
+Added Pin To Net: NetName=MCU_GSM_RX Pin=D4-13
+Added Net: Name=MCU_GSM_RX
+Added Pin To Net: NetName=MCU_GSM_STATUS Pin=D8-42
+Added Pin To Net: NetName=MCU_GSM_STATUS Pin=R6-2
+Added Net: Name=MCU_GSM_STATUS
+Added Pin To Net: NetName=MCU_GSM_TX Pin=D4-12
+Added Net: Name=MCU_GSM_TX
+Added Pin To Net: NetName=NetD4_8 Pin=D4-8
+Added Pin To Net: NetName=NetD4_8 Pin=R1-1
+Added Net: Name=NetD4_8
+Added Pin To Net: NetName=SIM_CLK Pin=D8-16
+Added Pin To Net: NetName=SIM_CLK Pin=D9-6
+Added Net: Name=SIM_CLK
+Added Pin To Net: NetName=SIM_DATA Pin=D8-15
+Added Pin To Net: NetName=SIM_DATA Pin=D9-3
+Added Net: Name=SIM_DATA
+Added Pin To Net: NetName=SIM_DET Pin=D8-14
+Added Net: Name=SIM_DET
+Added Pin To Net: NetName=SIM_RST Pin=D8-17
+Added Pin To Net: NetName=SIM_RST Pin=D9-7
+Added Net: Name=SIM_RST
+Added Pin To Net: NetName=SIM_VDD Pin=D8-18
+Added Pin To Net: NetName=SIM_VDD Pin=D9-8
+Added Net: Name=SIM_VDD
+Added Member To Class: ClassName=UBT Member=Component C8 100n
+Added Member To Class: ClassName=UBT Member=Component C9 100n
+Added Member To Class: ClassName=UBT Member=Component D6 STM32WB55Rx
+Added Member To Class: ClassName=UBT Member=Component D9 eSim
+Added Member To Class: ClassName=UBT Member=Component R5 10M
+Added Member To Class: ClassName=UBT Member=Component R6 10M
+Added Member To Class: ClassName=UBT Member=Component R7 200
+Added Member To Class: ClassName=UBT Member=Component R8 200

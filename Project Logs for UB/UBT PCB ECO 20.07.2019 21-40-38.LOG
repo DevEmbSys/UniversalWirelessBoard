@@ -1,0 +1,70 @@
+Removed Member From Class: ClassName=UBT Member=J?
+Change Component Designator: OldDesignator=C8 NewDesignator=C11
+Change Component Designator: OldDesignator=C9 NewDesignator=C12
+Change Component Designator: OldDesignator=C10 NewDesignator=C13
+Change Component Designator: OldDesignator=C11 NewDesignator=C15
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Added Component: Designator=C8(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C14(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C16(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C17(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=FLT1(LFB182G45CGFD436)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(U.FL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(L0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(L0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=FLT1-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetJ2_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C14-1
+Added Pin To Net: NetName=NetC8_1 Pin=FLT1-3
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C9-2
+Added Pin To Net: NetName=NetC8_2 Pin=L1-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=J1-1
+Added Pin To Net: NetName=NetC10_2 Pin=L1-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=C16-2
+Added Pin To Net: NetName=NetC14_2 Pin=L2-1
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=J3-1
+Added Pin To Net: NetName=NetC17_2 Pin=L2-2
+Added Net: Name=NetC17_2
+Added Member To Class: ClassName=UBT Member=Component C12 C
+Added Member To Class: ClassName=UBT Member=Component C13 C
+Added Member To Class: ClassName=UBT Member=Component C14 Not Fitted
+Added Member To Class: ClassName=UBT Member=Component C15 100n
+Added Member To Class: ClassName=UBT Member=Component C16 Not Fitted
+Added Member To Class: ClassName=UBT Member=Component C17 Not Fitted
+Added Member To Class: ClassName=UBT Member=Component FLT1 LFB182G45CGFD436
+Added Member To Class: ClassName=UBT Member=Component J2 Connector(U.FL)
+Added Member To Class: ClassName=UBT Member=Component J3 Connector(U.FL)
+Added Member To Class: ClassName=UBT Member=Component L1 3.6u
+Added Member To Class: ClassName=UBT Member=Component L2 0u

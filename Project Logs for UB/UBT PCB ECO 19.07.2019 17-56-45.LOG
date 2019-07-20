@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GSM_1v8 Pin=D6-1
+Added Pin To Net: NetName=GSM_TX Pin=D6-2
+Added Pin To Net: NetName=GSM_RX Pin=D6-3
+Added Pin To Net: NetName=GSM_RI Pin=D6-4
+Added Pin To Net: NetName=GND Pin=D6-7
+Added Pin To Net: NetName=3V3 Pin=D6-14
+Added Pin To Net: NetName=GSM_DTR Pin=D6-5
+Added Pin To Net: NetName=GSM_DTR Pin=D8-6
+Added Net: Name=GSM_DTR

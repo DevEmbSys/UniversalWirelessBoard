@@ -1,0 +1,170 @@
+Change Component Designator: OldDesignator=C8 NewDesignator=C25
+Change Component Designator: OldDesignator=C9 NewDesignator=C28
+Change Component Designator: OldDesignator=C10 NewDesignator=C29
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C12 NewDesignator=C17
+Change Component Designator: OldDesignator=C13 NewDesignator=C18
+Change Component Designator: OldDesignator=C14 NewDesignator=C30
+Change Component Designator: OldDesignator=C15 NewDesignator=C21
+Change Component Designator: OldDesignator=C16 NewDesignator=C31
+Change Component Designator: OldDesignator=C17 NewDesignator=C32
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=L1 NewDesignator=L3
+Change Component Designator: OldDesignator=L2 NewDesignator=L4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Added Component: Designator=C8(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C13(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C14(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C15(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C16(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C19(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C20(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C22(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C23(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C24(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C26(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C27(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(L0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(L0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB1(SB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XTAL1(NX2012SA)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=D7-32
+Added Pin To Net: NetName=GND Pin=D7-42
+Added Pin To Net: NetName=GND Pin=R7-2
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC25_1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC25_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC29_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC18_2
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC30_2
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC32_2
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR15_2
+Added Pin To Net: NetName=MCU_VBAT Pin=C15-1
+Added Pin To Net: NetName=MCU_VBAT Pin=D7-1
+Added Pin To Net: NetName=MCU_VBAT Pin=D7-31
+Added Net: Name=MCU_VBAT
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=D7-3
+Added Pin To Net: NetName=NetC8_1 Pin=XTAL1-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=D7-8
+Added Pin To Net: NetName=NetC9_2 Pin=R4-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=D7-4
+Added Pin To Net: NetName=NetC16_1 Pin=XTAL1-1
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=D7-41
+Added Pin To Net: NetName=NetC22_2 Pin=L1-1
+Added Pin To Net: NetName=NetC22_2 Pin=SB1-1
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=FLT1-1
+Added Pin To Net: NetName=NetC27_2 Pin=L2-2
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetD7_5 Pin=D7-5
+Added Pin To Net: NetName=NetD7_5 Pin=R7-1
+Added Net: Name=NetD7_5
+Added Pin To Net: NetName=NetD7_43 Pin=D7-43
+Added Pin To Net: NetName=NetD7_43 Pin=L1-2
+Added Net: Name=NetD7_43
+Added Pin To Net: NetName=RF1 Pin=C26-2
+Added Pin To Net: NetName=RF1 Pin=L2-1
+Added Net: Name=RF1
+Added Pin To Net: NetName=VDD_MCU Pin=C11-2
+Added Pin To Net: NetName=VDD_MCU Pin=C12-2
+Added Pin To Net: NetName=VDD_MCU Pin=C13-2
+Added Pin To Net: NetName=VDD_MCU Pin=C14-2
+Added Pin To Net: NetName=VDD_MCU Pin=C19-2
+Added Pin To Net: NetName=VDD_MCU Pin=C20-2
+Added Pin To Net: NetName=VDD_MCU Pin=C23-2
+Added Pin To Net: NetName=VDD_MCU Pin=C24-2
+Added Pin To Net: NetName=VDD_MCU Pin=D7-14
+Added Pin To Net: NetName=VDD_MCU Pin=D7-30
+Added Pin To Net: NetName=VDD_MCU Pin=D7-33
+Added Pin To Net: NetName=VDD_MCU Pin=D7-44
+Added Pin To Net: NetName=VDD_MCU Pin=D7-45
+Added Pin To Net: NetName=VDD_MCU Pin=D7-68
+Added Pin To Net: NetName=VDD_MCU Pin=R4-2
+Added Pin To Net: NetName=VDD_MCU Pin=SB1-2
+Added Net: Name=VDD_MCU
+Added Member To Class: ClassName=UBT Member=Component C11 100n
+Added Member To Class: ClassName=UBT Member=Component C18 C
+Added Member To Class: ClassName=UBT Member=Component C19 100n
+Added Member To Class: ClassName=UBT Member=Component C20 100p
+Added Member To Class: ClassName=UBT Member=Component C21 100n
+Added Member To Class: ClassName=UBT Member=Component C22 4.7u
+Added Member To Class: ClassName=UBT Member=Component C23 4.7u
+Added Member To Class: ClassName=UBT Member=Component C24 100n
+Added Member To Class: ClassName=UBT Member=Component C25 10n
+Added Member To Class: ClassName=UBT Member=Component C26 0.8p
+Added Member To Class: ClassName=UBT Member=Component C27 0.3p
+Added Member To Class: ClassName=UBT Member=Component C28 Not Fitted
+Added Member To Class: ClassName=UBT Member=Component C29 1.2p
+Added Member To Class: ClassName=UBT Member=Component C30 Not Fitted
+Added Member To Class: ClassName=UBT Member=Component C31 Not Fitted
+Added Member To Class: ClassName=UBT Member=Component C32 Not Fitted
+Added Member To Class: ClassName=UBT Member=Component J2 Antenna_2.4Ghz
+Added Member To Class: ClassName=UBT Member=Component L3 3.6u
+Added Member To Class: ClassName=UBT Member=Component L4 0u
+Added Member To Class: ClassName=UBT Member=Component R14 200
+Added Member To Class: ClassName=UBT Member=Component R15 0R
+Added Member To Class: ClassName=UBT Member=Component SB1 SB
+Added Member To Class: ClassName=UBT Member=Component XTAL1 32.768 kHz
