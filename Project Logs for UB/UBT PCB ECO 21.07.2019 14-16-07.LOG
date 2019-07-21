@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VDD_MCU Pin=SB?-1
+Change Component Comment : Designator=R4 Old Comment=R New Comment=1M
+Added Pin To Net: NetName=MCU_GSM_DTR Pin=D7-23
+Added Pin To Net: NetName=MCU_GSM_TX Pin=D7-24
+Added Pin To Net: NetName=MCU_GSM_RX Pin=D7-51
+Added Pin To Net: NetName=MCU_GSM_RTS Pin=D7-53
+Added Pin To Net: NetName=MCU_VBAT Pin=SB?-1
+Added Pin To Net: NetName=JTCK_SWCLK Pin=D7-56
+Added Net: Name=JTCK_SWCLK
+Added Pin To Net: NetName=JTDI Pin=D7-57
+Added Net: Name=JTDI
+Added Pin To Net: NetName=JTDO Pin=D7-63
+Added Net: Name=JTDO
+Added Pin To Net: NetName=JTMS_SWDIO Pin=D7-54
+Added Net: Name=JTMS_SWDIO
+Added Pin To Net: NetName=MCU_GSM_CTS Pin=D7-52
+Added Pin To Net: NetName=MCU_GSM_CTS Pin=D9-4
+Added Net: Name=MCU_GSM_CTS
+Added Pin To Net: NetName=NJTRST Pin=D7-64
+Added Net: Name=NJTRST
+Added Member To Class: ClassName=UBT Member=Component SB? SB
