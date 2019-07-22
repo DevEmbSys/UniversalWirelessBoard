@@ -1,0 +1,87 @@
+Added Component: Designator=C1(C0402)
+Added Component: Designator=C2(C_TYPE_D)
+Added Component: Designator=C3(C_TYPE_D)
+Added Component: Designator=C4(C_TYPE_D)
+Added Component: Designator=C5(C0402)
+Added Component: Designator=C6(C0402)
+Added Component: Designator=C7(C0402)
+Added Component: Designator=D1(VQFN20)
+Added Component: Designator=D2(VQFN-16)
+Added Component: Designator=D3(WSON8)
+Added Component: Designator=D5(VFQFPN68)
+Added Component: Designator=D6(TSSOP14)
+Added Component: Designator=D7(LGA12)
+Added Component: Designator=D8(SIM7020E)
+Added Component: Designator=R1(R0402)
+Added Component: Designator=R2(R0402)
+Added Component: Designator=R3(R0402)
+Added Component: Designator=R4(R0402)
+Added Component: Designator=T1(SO8)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC2_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC2_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC2_1 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=GSM_TX Pin=D8-1
+Added Pin To Net: NetName=GSM_RX Pin=D8-2
+Added Pin To Net: NetName=GSM_RI Pin=D8-7
+Added Pin To Net: NetName=GND Pin=D8-8
+Added Pin To Net: NetName=GND Pin=D8-13
+Added Pin To Net: NetName=GND Pin=D8-19
+Added Pin To Net: NetName=GND Pin=D8-21
+Added Pin To Net: NetName=GND Pin=D8-27
+Added Pin To Net: NetName=NetC7_2 Pin=D8-28
+Added Pin To Net: NetName=GND Pin=D8-30
+Added Pin To Net: NetName=GND Pin=D8-31
+Added Pin To Net: NetName=GND Pin=D8-33
+Added Pin To Net: NetName=NetC2_1 Pin=D8-34
+Added Pin To Net: NetName=NetC2_1 Pin=D8-35
+Added Pin To Net: NetName=GND Pin=D8-36
+Added Pin To Net: NetName=GND Pin=D8-37
+Added Pin To Net: NetName=NetC6_2 Pin=D8-39
+Added Pin To Net: NetName=GSM_1v8 Pin=D8-40
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Pin To Net: NetName=GSM_PWR_ON Pin=R2-1
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Pin To Net: NetName=NetC6_2 Pin=R3-1
+Added Pin To Net: NetName=GSM_PWRKEY Pin=R3-2
+Added Pin To Net: NetName=NetC7_2 Pin=R4-1
+Added Pin To Net: NetName=GSM_RESET Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=T1-1
+Added Pin To Net: NetName=3V3 Pin=T1-1
+Added Pin To Net: NetName=3V3 Pin=T1-1
+Added Pin To Net: NetName=NetC1_2 Pin=T1-4
+Added Pin To Net: NetName=NetC2_1 Pin=T1-5
+Added Pin To Net: NetName=NetC2_1 Pin=T1-5
+Added Pin To Net: NetName=NetC2_1 Pin=T1-5
+Added Pin To Net: NetName=NetC2_1 Pin=T1-5
+Added Member To Class: ClassName=UBT Member=Component C1 100n
+Added Member To Class: ClassName=UBT Member=Component C2 330u
+Added Member To Class: ClassName=UBT Member=Component C3 330u
+Added Member To Class: ClassName=UBT Member=Component C4 330u
+Added Member To Class: ClassName=UBT Member=Component C5 100n
+Added Member To Class: ClassName=UBT Member=Component C6 100n
+Added Member To Class: ClassName=UBT Member=Component C7 100n
+Added Member To Class: ClassName=UBT Member=Component D1 BQ51013B
+Added Member To Class: ClassName=UBT Member=Component D2 BQ24232
+Added Member To Class: ClassName=UBT Member=Component D3 TPS62081
+Added Member To Class: ClassName=UBT Member=Component D5 STM32WB55Rx
+Added Member To Class: ClassName=UBT Member=Component D6 NTS0304EPW
+Added Member To Class: ClassName=UBT Member=Component D7 IIS2DH
+Added Member To Class: ClassName=UBT Member=Component D8 SIM7020E
+Added Member To Class: ClassName=UBT Member=Component R1 1M
+Added Member To Class: ClassName=UBT Member=Component R2 200
+Added Member To Class: ClassName=UBT Member=Component R3 200
+Added Member To Class: ClassName=UBT Member=Component R4 200
+Added Member To Class: ClassName=UBT Member=Component T1 IRF7410
+Added Room: Name=UBT

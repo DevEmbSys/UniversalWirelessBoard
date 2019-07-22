@@ -1,0 +1,196 @@
+Removed Member From Class: ClassName=UBT Member=C?
+Change Component Designator: OldDesignator=C3 NewDesignator=C7
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C10
+Change Component Designator: OldDesignator=C7 NewDesignator=C11
+Change Component Designator: OldDesignator=C8 NewDesignator=C12
+Change Component Designator: OldDesignator=C9 NewDesignator=C13
+Change Component Designator: OldDesignator=C10 NewDesignator=C14
+Change Component Designator: OldDesignator=C11 NewDesignator=C15
+Change Component Designator: OldDesignator=C12 NewDesignator=C16
+Change Component Designator: OldDesignator=C13 NewDesignator=C17
+Change Component Designator: OldDesignator=C14 NewDesignator=C18
+Change Component Designator: OldDesignator=C15 NewDesignator=C19
+Change Component Designator: OldDesignator=C16 NewDesignator=C20
+Change Component Designator: OldDesignator=C17 NewDesignator=C21
+Change Component Designator: OldDesignator=C18 NewDesignator=C22
+Change Component Designator: OldDesignator=C19 NewDesignator=C23
+Change Component Designator: OldDesignator=C20 NewDesignator=C24
+Change Component Designator: OldDesignator=C21 NewDesignator=C25
+Change Component Designator: OldDesignator=C22 NewDesignator=C26
+Change Component Designator: OldDesignator=C23 NewDesignator=C27
+Change Component Designator: OldDesignator=C24 NewDesignator=C28
+Change Component Designator: OldDesignator=C25 NewDesignator=C29
+Change Component Designator: OldDesignator=C26 NewDesignator=C30
+Change Component Designator: OldDesignator=C27 NewDesignator=C31
+Change Component Designator: OldDesignator=C28 NewDesignator=C33
+Change Component Designator: OldDesignator=C29 NewDesignator=C34
+Change Component Designator: OldDesignator=C30 NewDesignator=C35
+Change Component Designator: OldDesignator=C31 NewDesignator=C36
+Change Component Designator: OldDesignator=C32 NewDesignator=C37
+Change Component Designator: OldDesignator=C33 NewDesignator=C38
+Change Component Designator: OldDesignator=C34 NewDesignator=C39
+Change Component Designator: OldDesignator=C35 NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D6 NewDesignator=D7
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=D8 NewDesignator=D5
+Change Component Designator: OldDesignator=D9 NewDesignator=D10
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R6
+Change Component Designator: OldDesignator=R4 NewDesignator=R7
+Change Component Designator: OldDesignator=R5 NewDesignator=R8
+Change Component Designator: OldDesignator=R6 NewDesignator=R9
+Change Component Designator: OldDesignator=R7 NewDesignator=R10
+Change Component Designator: OldDesignator=R8 NewDesignator=R11
+Change Component Designator: OldDesignator=R9 NewDesignator=R12
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R11 NewDesignator=R14
+Change Component Designator: OldDesignator=R12 NewDesignator=R15
+Change Component Designator: OldDesignator=R13 NewDesignator=R16
+Change Component Designator: OldDesignator=R14 NewDesignator=R17
+Change Component Designator: OldDesignator=R15 NewDesignator=R18
+Change Component Designator: OldDesignator=SB1 NewDesignator=SB4
+Change Component Designator: OldDesignator=SB? NewDesignator=SB5
+Change Component Designator: OldDesignator=SB? NewDesignator=SB6
+Added Component: Designator=C3(C0402)
+Added Component: Designator=C4(C0402)
+Added Component: Designator=C5(C0402)
+Added Component: Designator=C6(C0402)
+Added Component: Designator=D9(MP34DT06J)
+Added Component: Designator=R2(R0402)
+Added Component: Designator=R3(R0402)
+Added Component: Designator=R4(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=SB1(SB)
+Added Component: Designator=SB2(SB)
+Added Component: Designator=SB3(SB)
+Added Component: Designator=T?(SO8)
+Added Component: Designator=XS?(12BH092-GR)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VDD_MCU Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=D5-5
+Added Pin To Net: NetName=GND Pin=D5-6
+Added Pin To Net: NetName=GND Pin=D5-7
+Added Pin To Net: NetName=GND Pin=D5-8
+Added Pin To Net: NetName=VDD_MCU Pin=D5-9
+Added Pin To Net: NetName=VDD_MCU Pin=D5-10
+Added Pin To Net: NetName=GND Pin=D8-7
+Added Pin To Net: NetName=GND Pin=D9-4
+Added Pin To Net: NetName=GND Pin=D9-5
+Added Pin To Net: NetName=GND Pin=D9-5
+Added Pin To Net: NetName=GND Pin=D9-5
+Added Pin To Net: NetName=GND Pin=D9-5
+Added Pin To Net: NetName=VDD_MCU Pin=R2-2
+Added Pin To Net: NetName=VDD_MCU Pin=R3-2
+Added Pin To Net: NetName=VDD_MCU Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=VDD_MCU Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=SB3-1
+Added Pin To Net: NetName=GND Pin=XS?-2
+Added Pin To Net: NetName=GND Pin=XS?-2
+Change Net Name : Old Net Name=GND New Net Name=MICRO_DOUT
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC19_1
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC25_2
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetC33_1
+Change Net Name : Old Net Name=NetC28_2 New Net Name=NetC33_2
+Change Net Name : Old Net Name=NetC30_2 New Net Name=NetC35_2
+Change Net Name : Old Net Name=NetC32_2 New Net Name=NetC37_2
+Change Net Name : Old Net Name=NetC33_2 New Net Name=NetC38_2
+Change Net Name : Old Net Name=NetC35_2 New Net Name=NetC40_2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC32_1
+Change Net Name : Old Net Name=NetD4_8 New Net Name=NetD3_8
+Change Net Name : Old Net Name=NetD7_5 New Net Name=NetD8_5
+Change Net Name : Old Net Name=NetD7_43 New Net Name=NetD8_43
+Change Net Name : Old Net Name=NetD9_32 New Net Name=NetD10_32
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR18_2
+Added Pin To Net: NetName=A_INT1 Pin=C5-2
+Added Pin To Net: NetName=A_INT1 Pin=D5-12
+Added Pin To Net: NetName=A_INT1 Pin=D8-38
+Added Net: Name=A_INT1
+Added Pin To Net: NetName=A_INT2 Pin=C4-2
+Added Pin To Net: NetName=A_INT2 Pin=D5-11
+Added Pin To Net: NetName=A_INT2 Pin=D8-39
+Added Net: Name=A_INT2
+Added Pin To Net: NetName=A_SCL Pin=D5-1
+Added Pin To Net: NetName=A_SCL Pin=D8-66
+Added Pin To Net: NetName=A_SCL Pin=R3-1
+Added Net: Name=A_SCL
+Added Pin To Net: NetName=A_SDA Pin=D5-4
+Added Pin To Net: NetName=A_SDA Pin=D8-67
+Added Pin To Net: NetName=A_SDA Pin=R2-1
+Added Net: Name=A_SDA
+Added Pin To Net: NetName=MICRO_CLK Pin=D8-6
+Added Pin To Net: NetName=MICRO_CLK Pin=D9-3
+Added Net: Name=MICRO_CLK
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-3
+Added Pin To Net: NetName=NetD5_2 Pin=R4-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_4 Pin=R?-2
+Added Net: Name=NetD6_4
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=SB2-2
+Added Pin To Net: NetName=NetD9_2 Pin=SB3-2
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=T?-4
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetT?_5 Pin=T?-5
+Added Pin To Net: NetName=NetT?_5 Pin=T?-5
+Added Pin To Net: NetName=NetT?_5 Pin=T?-5
+Added Pin To Net: NetName=NetT?_5 Pin=T?-5
+Added Pin To Net: NetName=NetT?_5 Pin=XS?-1
+Added Pin To Net: NetName=NetT?_5 Pin=XS?-1
+Added Net: Name=NetT?_5
+Added Pin To Net: NetName=TIM2_CH2 Pin=D8-16
+Added Net: Name=TIM2_CH2
+Added Pin To Net: NetName=TIM2_CH3 Pin=D8-17
+Added Net: Name=TIM2_CH3
+Added Pin To Net: NetName=VDD_CELL Pin=T?-1
+Added Pin To Net: NetName=VDD_CELL Pin=T?-1
+Added Pin To Net: NetName=VDD_CELL Pin=T?-1
+Added Net: Name=VDD_CELL
+Added Pin To Net: NetName=VDD_MICRO Pin=C6-2
+Added Pin To Net: NetName=VDD_MICRO Pin=D8-27
+Added Pin To Net: NetName=VDD_MICRO Pin=D9-1
+Added Pin To Net: NetName=VDD_MICRO Pin=SB1-2
+Added Pin To Net: NetName=VDD_MICRO Pin=SB2-1
+Added Net: Name=VDD_MICRO
+Added Member To Class: ClassName=UBT Member=Component C36 Not Fitted
+Added Member To Class: ClassName=UBT Member=Component C37 1.2p
+Added Member To Class: ClassName=UBT Member=Component C38 Not Fitted
+Added Member To Class: ClassName=UBT Member=Component C39 Not Fitted
+Added Member To Class: ClassName=UBT Member=Component C40 Not Fitted
+Added Member To Class: ClassName=UBT Member=Component D8 STM32WB55Rx
+Added Member To Class: ClassName=UBT Member=Component D10 SIM7020E
+Added Member To Class: ClassName=UBT Member=Component R16 0R
+Added Member To Class: ClassName=UBT Member=Component R17 200
+Added Member To Class: ClassName=UBT Member=Component R18 0R
+Added Member To Class: ClassName=UBT Member=Component R? R
+Added Member To Class: ClassName=UBT Member=Component R? 1M
+Added Member To Class: ClassName=UBT Member=Component SB2 SB
+Added Member To Class: ClassName=UBT Member=Component SB3 SB
+Added Member To Class: ClassName=UBT Member=Component SB4 SB
+Added Member To Class: ClassName=UBT Member=Component SB5 SB
+Added Member To Class: ClassName=UBT Member=Component T? IRF7410
+Added Member To Class: ClassName=UBT Member=Component XS? 12BH092-GR
