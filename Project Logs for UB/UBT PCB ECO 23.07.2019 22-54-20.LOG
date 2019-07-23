@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=MICRO_DOUT Pin=D1-1
+Removed Pin From Net: NetName=NetC4_1 Pin=D1-2
+Removed Pin From Net: NetName=NetC8_2 Pin=D1-3
+Removed Pin From Net: NetName=5v Pin=D1-4
+Removed Pin From Net: NetName=NetC10_2 Pin=D1-5
+Removed Pin From Net: NetName=NetC11_2 Pin=D1-6
+Removed Pin From Net: NetName=MICRO_DOUT Pin=D1-9
+Removed Pin From Net: NetName=NetD1_14 Pin=D1-14
+Removed Pin From Net: NetName=NetC13_1 Pin=D1-15
+Removed Pin From Net: NetName=NetC12_1 Pin=D1-16
+Removed Pin From Net: NetName=NetC9_1 Pin=D1-17
+Removed Pin From Net: NetName=NetC14_2 Pin=D1-18
+Removed Pin From Net: NetName=NetC1_1 Pin=D1-19
+Removed Pin From Net: NetName=MICRO_DOUT Pin=D1-20
+Removed Member From Class: ClassName=UBT Member=D1
+Added Component: Designator=D?(DSBGA)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MICRO_DOUT Pin=D?-1
+Added Pin To Net: NetName=MICRO_DOUT Pin=D?-1
+Added Pin To Net: NetName=MICRO_DOUT Pin=D?-1
+Added Pin To Net: NetName=MICRO_DOUT Pin=D?-1
+Added Pin To Net: NetName=NetC4_1 Pin=D?-2
+Added Pin To Net: NetName=NetC4_1 Pin=D?-2
+Added Pin To Net: NetName=NetC8_2 Pin=D?-3
+Added Pin To Net: NetName=5v Pin=D?-4
+Added Pin To Net: NetName=5v Pin=D?-4
+Added Pin To Net: NetName=5v Pin=D?-4
+Added Pin To Net: NetName=5v Pin=D?-4
+Added Pin To Net: NetName=NetC10_2 Pin=D?-5
+Added Pin To Net: NetName=NetC11_2 Pin=D?-6
+Added Pin To Net: NetName=MICRO_DOUT Pin=D?-9
+Added Pin To Net: NetName=NetD1_14 Pin=D?-14
+Added Pin To Net: NetName=NetC13_1 Pin=D?-15
+Added Pin To Net: NetName=NetC12_1 Pin=D?-16
+Added Pin To Net: NetName=NetC9_1 Pin=D?-17
+Added Pin To Net: NetName=NetC14_2 Pin=D?-18
+Added Pin To Net: NetName=NetC14_2 Pin=D?-18
+Added Pin To Net: NetName=NetC1_1 Pin=D?-19
+Added Pin To Net: NetName=NetC1_1 Pin=D?-19
+Change Net Name : Old Net Name=NetD1_14 New Net Name=NetD?_14
+Added Pin To Net: NetName=NetD?_12 Pin=D?-12
+Added Pin To Net: NetName=NetD?_12 Pin=R2-2
+Added Net: Name=NetD?_12
+Added Member To Class: ClassName=UBT Member=Component D? BQ51013B
